@@ -66,10 +66,6 @@ $ yarn android // for Android
 # then open the app in Expo
 ```
 
-## :memo: License
-
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
-
  ## 🚀 Preview of The Calculator App
 
 <img src="https://i.imgur.com/cJRLZTr.png"/>
@@ -78,5 +74,9 @@ This project is under license from MIT. For more details, see the [LICENSE](LICE
 Made with :heart: by <a href="https://github.com/Aklilu-Mandefro" target="_blank">Aklilu Mandefro</a>
 
 &#xa0;
+
+## :memo: License
+
+This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 <a href="#top">Back to top</a>
