@@ -70,6 +70,11 @@ $ yarn android // for Android
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
+ ## 🚀 Preview of The Calculator App
+
+<img src="https://i.imgur.com/cJRLZTr.png"/>
+
+
 Made with :heart: by <a href="https://github.com/Aklilu-Mandefro" target="_blank">Aklilu Mandefro</a>
 
 &#xa0;
