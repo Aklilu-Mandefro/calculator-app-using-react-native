@@ -7,22 +7,6 @@
 
 <h1 align="center">React Native - Calculator App</h1>
 
-<p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/Aklilu-Mandefro/calculator-app-using-react-native?color=56BEB8">
-
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/Aklilu-Mandefro/calculator-app-using-react-native?color=56BEB8">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Aklilu-Mandefro/calculator-app-using-react-native?color=56BEB8">
-
-  <img alt="License" src="https://img.shields.io/github/license/Aklilu-Mandefro/calculator-app-using-react-native?color=56BEB8">
-
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/Aklilu-Mandefro/calculator-app-using-react-native?color=56BEB8" /> -->
-
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/Aklilu-Mandefro/calculator-app-using-react-native?color=56BEB8" /> -->
-
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/Aklilu-Mandefro/calculator-app-using-react-native?color=56BEB8" /> -->
-</p>
-
 <!-- Status -->
 
 <!-- <h4 align="center">
