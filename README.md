@@ -70,10 +70,10 @@ $ yarn android // for Android
 
 <img src="https://i.imgur.com/cJRLZTr.png"/>
 
-
+<br>
 Made with :heart: by <a href="https://github.com/Aklilu-Mandefro" target="_blank">Aklilu Mandefro</a>
 
-&#xa0;
+## Please give this repo a ⭐ if you found it helpful.
 
 ## :memo: License
 
